@@ -1,7 +1,7 @@
 # FaceApp
 This is a project for Microsoft Intern Engage'22 program. This project is based upon the usage of face recognition. Through this project, we can detect, recognize face in an image and their emotions. Also key facial feature of a face can also be known. Faces of few personalities are added and models are trained upon those faces only. So FaceApp can only apply features to images having those personalities.
 
-[Alt text](/relative/path/to/img.jpg?raw=true "FaceApp Demo Snapshot")
+[Alt text](/relative/Screenshot (1).png?raw=true "FaceApp Demo Snapshot")
 
 link to FaceApp - https://faceapp-engage.herokuapp.com/
 
