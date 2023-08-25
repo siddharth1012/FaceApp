@@ -2,7 +2,7 @@
 This is a project for Microsoft Intern Engage'22 program. This project is based upon the usage of face recognition. Through this project, we can detect, recognize face in an image and their emotions. Also key facial feature of a face can also be known. Faces of few personalities are added and models are trained upon those faces only. So FaceApp can only apply features to images having those personalities.
 
 
-link to FaceApp - https://faceapp-engage.herokuapp.com/
+link to FaceApp - https://face-app-engage-cf15c596397a.herokuapp.com/
 
 FaceApp is hosted over a free tier plan of Heroku Cloud. So it might take a while for the app to load at first because Heroku allocated resouces to some other webapps and puts our apps to sleep. 
 
@@ -42,7 +42,7 @@ List of people models are trained over-
 
 Steps to use FaceApp-
 
-1. Go to the link- https://faceapp-engage.herokuapp.com/
+1. Go to the link- https://face-app-engage-cf15c596397a.herokuapp.com/
 2. Choose any of services you want to use. 
 3. Upload picture of people(Any of listed above) and hit the button.
 4. The results will be shown with the image.
